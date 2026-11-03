@@ -30,14 +30,14 @@ Employee attrition can affect workforce stability and organizational planning. T
 
 ## Power BI Dashboard
 
-### Page 1 — HR Overview
-![HR Overview Dashboard](Screenshots/hr-overview.png)
+### 1. HR Overview
+![HR Overview](Screenshots/HR_Overview.png)
 
-### Page 2 — Attrition Analysis
-![Attrition Analysis Dashboard](Screenshots/attrition-analysis.png)
+### 2. Attrition Analysis
+![Attrition Analysis](Screenshots/Attrition_Analysis.png)
 
-### Page 3 — Workforce Insights
-![Workforce Insights Dashboard](Screenshots/workforce-insights.png)
+### 3. Workforce Insights
+![Workforce Insights](Screenshots/Workforce_Insights.png)
 
 ## Key Analysis Areas
 - Employee attrition and retention patterns
