@@ -3,21 +3,6 @@ End-to-end HR Attrition Analysis using Python, SQL and Power BI
 
 ---
 
-## Power BI Dashboard
-
-### 1. HR Overview
-![HR Overview](Screenshots/HR_Overview.png)
-
-### 2. Attrition Analysis
-![Attrition Analysis](Screenshots/Attrition_Analysis.png)
-
-### 3. Workforce Insights
-![Workforce Insights](Screenshots/Workforce_Insights.png)
-
-
-
----
-
 ## Project Overview
 
 This project focuses on analyzing employee attrition and workforce trends using Python, MySQL, and Power BI.
@@ -54,4 +39,18 @@ This project aims to analyze employee data to understand attrition patterns and 
 - Examined attrition rates based on overtime, job satisfaction, and work-life balance.
 - Analyzed employee education, business travel, and experience patterns.
 - Visualized workforce metrics using an interactive three-page Power BI dashboard.
+
+
+---
+
+## Power BI Dashboard
+
+### 1. HR Overview
+![HR Overview](Screenshots/HR_Overview.png)
+
+### 2. Attrition Analysis
+![Attrition Analysis](Screenshots/Attrition_Analysis.png)
+
+### 3. Workforce Insights
+![Workforce Insights](Screenshots/Workforce_Insights.png)
 
