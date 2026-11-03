@@ -28,30 +28,16 @@ Employee attrition can affect workforce stability and organizational planning. T
 
 ## Dashboard
 
+## Power BI Dashboard
+
 ### Page 1 — HR Overview
-- Total Employees
-- Employees Left
-- Attrition Rate
-- Average Monthly Income
-- Department distribution
-- Attrition by job role
-- Interactive filters
+![HR Overview Dashboard](Screenshots/hr-overview.png)
 
 ### Page 2 — Attrition Analysis
-- Attrition by overtime
-- Attrition by job satisfaction
-- Attrition by work-life balance
-- Attrition by marital status
-- Employee detail table
-- Interactive filters
+![Attrition Analysis Dashboard](Screenshots/attrition-analysis.png)
 
 ### Page 3 — Workforce Insights
-- Education analysis
-- Monthly income by job role
-- Business travel analysis
-- Age distribution
-- Experience by job level
-- Workforce-related metrics
+![Workforce Insights Dashboard](Screenshots/workforce-insights.png)
 
 ## Key Analysis Areas
 - Employee attrition and retention patterns
