@@ -57,7 +57,7 @@ Employee attrition can affect workforce stability and organizational planning. T
 
 The complete project report includes Python data analysis, SQL queries, Power BI dashboard insights, and business recommendations.
 
-📥 [Download HR Attrition Analysis Report (PDF)](Report/HR_Attrition_Analysis_Complete_Project_Report.pdf)
+- [Project Report](Report/)
 
 ## Conclusion
 This project demonstrates an end-to-end HR analytics workflow, from data exploration and SQL-based analysis to interactive Power BI dashboard development. It provides a structured view of workforce trends and employee attrition to support HR decision-making.
